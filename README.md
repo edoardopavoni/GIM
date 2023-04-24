@@ -14,4 +14,4 @@ Esercizi di Grafica in movimento 2023
 
 ## Esercizio 1B
 
-[dittico](Esercizio_1B/template/indeXD.html)  
+[dittico](Esercizio_1B/template/Abstract.html)  
