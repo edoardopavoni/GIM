@@ -11,4 +11,7 @@ Esercizi di Grafica in movimento 2023
 [rotazione 3 frames](Esercizio_1A/template/rotazione_3.html)  
 [spostamento 2 frames](Esercizio_1A/template/spostamento_2.html)  
 [spostamento 3 frames](Esercizio_1A/template/spostamento_3.html)  
+
+## Esercizio 2
+
 [dittico](Esercizio_1B/template/Abstract.html)  
