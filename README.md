@@ -1,5 +1,11 @@
 # GIM
 Esercizi di Grafica in movimento 2023
 
+## Esercizio 1A
+
 [acceso spento 2 frames](Esercizio_1A/template/acceso_spento_2.html)  
-[acceso spento 3 frames](Esercizio_1A/template/acceso_spento_3.html)
+[acceso spento 3 frames](Esercizio_1A/template/acceso_spento_3.html)  
+
+## Esercizio 1B
+
+[acceso spento 2 frames](Esercizio_1A/template/acceso_spento_2.html)  
