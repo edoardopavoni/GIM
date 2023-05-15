@@ -18,6 +18,8 @@ Esercizi di Grafica in movimento 2023
 
 ## Esercizio 2A
 
+// work in progress
+
 ## Esercizio 2B
 
 [hesitation](Esercizio_2/Hesitation.html)
