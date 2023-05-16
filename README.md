@@ -14,8 +14,8 @@ Esercizi di Grafica in movimento 2023
 
 ## Esercizio 1B
 
-[Abstract](Esercizio_1B/template/Abstract.html)
-[Pop](Esercizio_1B/template/Popcorn.html)
+[Abstract](Esercizio_1B/template/Abstract.html)  
+[Pop](Esercizio_1B/template/popcorn.html)
 
 ## Esercizio 2A
 
