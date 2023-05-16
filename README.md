@@ -14,8 +14,8 @@ Esercizi di Grafica in movimento 2023
 
 ## Esercizio 1B
 
-[Abstract](Esercizio_1B/template/Abstract.html)
-[Pop](Esercizio_1B/template/Abstract.html)
+[Abstract](Esercizio_1B/template/Abstract.html)  
+[Pop](Esercizio_1B/template/popcorn.html)
 
 ## Esercizio 2A
 
@@ -27,4 +27,10 @@ Esercizi di Grafica in movimento 2023
 
 ## Esercizio 3
 
-//coming soon
+[pong](Esercizio_3/2_pong/pong.html)
+[pioggia](Esercizio_3/3_pioggia/pioggia.html)
+
+## Esercizio 4
+
+[orologio digitale](Esercizio_4/1_orologio/orologio.html)
+[orologio analogico](Esercizio_4/2_orologio_analogico/orologio_analogico.html)
