@@ -37,4 +37,6 @@ Docente: Andreas Gysin
 
 [orologio analogico](Esercizio_4/2_orologio_analogico/orologio_analogico.html)  
 [orologio "secondario"](Esercizio_4/5_orologio_secondario/orologio_secondario.html)  
+# Per chi non vuole perdersi neanche un secondo
 [Reaction test](Esercizio_4/3_reaction_test/reaction_test.html) 
+# Per i più competitivi
