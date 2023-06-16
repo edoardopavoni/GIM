@@ -24,8 +24,8 @@ Docente: Andreas Gysin
 
 ## Esercizio 2B
 
-[Forma e senso animato 1](Esercizio_2B/success.html)  
-[Forma e senso animato 2](Esercizio_2B/Success/success.html)  
+[Forma e senso animato 1](Esercizio_2B/Success/success.html)  
+[Forma e senso animato 2](Esercizio_2B/Hesitation/Hesitation.html)   
 
 ## Esercizio 3
 
