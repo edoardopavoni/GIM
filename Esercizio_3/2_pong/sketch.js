@@ -32,6 +32,24 @@ function draw(){
 
 }
  
+function draw(){
+
+	noStroke()
+	fill (random(0, 100), random(175, 255), random(200, 255))
+
+	ellipse(posizioneX, posizioneY, 20, 20)
+
+	posizioneX = posizioneX +velX
+	posizioneY = posizioneY +velY
+
+	if (posizioneX >= width) velX = -velX // per unire le due funzioni posso usare ||
+	if (posizioneX <= 0) velX = -velX
+
+	if (posizioneY >= height) velY = -velY // per unire le due funzioni posso usare ||
+	if (posizioneY <= 0) velY = -velY
+
+}
+
 function KeyPressed(){
 
 	save("pong.png")
