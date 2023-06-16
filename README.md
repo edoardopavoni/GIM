@@ -1,7 +1,7 @@
 # GIM 2023
-Esercizi di Grafica in movimento 2023
-Edoardo Pavoni CV1
-Docente: Andreas Gysin
+Esercizi di Grafica in movimento 2023  
+Edoardo Pavoni CV1  
+Docente: Andreas Gysin  
 
 ## Esercizio 1A
 
@@ -24,7 +24,7 @@ Docente: Andreas Gysin
 
 ## Esercizio 2B
 
-[Forma e senso animato 1](Esercizio_2B/success.html) 
+[Forma e senso animato 1](Esercizio_2B/success.html)  
 [Forma e senso animato 2](Esercizio_2B/Hesitation.html)  
 
 ## Esercizio 3
@@ -35,6 +35,9 @@ Docente: Andreas Gysin
 
 ## Esercizio 4
 
+##### Per gli amanti dei classici
 [orologio analogico](Esercizio_4/2_orologio_analogico/orologio_analogico.html)  
+##### Per chi non vuole perdersi neanche un secondo  
 [orologio "secondario"](Esercizio_4/5_orologio_secondario/orologio_secondario.html)  
-[Reaction test](Esercizio_4/3_reaction_test/reaction_test.html) 
+##### Per i più competitivi  
+[Reaction test](Esercizio_4/3_reaction_test/reaction_test.html)   
