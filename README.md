@@ -35,9 +35,9 @@ Docente: Andreas Gysin
 
 ## Esercizio 4
 
-# Per gli amanti dei classici
+### Per gli amanti dei classici
 [orologio analogico](Esercizio_4/2_orologio_analogico/orologio_analogico.html)  
-# Per chi non vuole perdersi neanche un secondo  
+### Per chi non vuole perdersi neanche un secondo  
 [orologio "secondario"](Esercizio_4/5_orologio_secondario/orologio_secondario.html)  
-# Per i più competitivi  
+### Per i più competitivi  
 [Reaction test](Esercizio_4/3_reaction_test/reaction_test.html)  
