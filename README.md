@@ -40,4 +40,4 @@ Docente: Andreas Gysin
 ##### Per chi non vuole perdersi neanche un secondo  
 [orologio "secondario"](Esercizio_4/5_orologio_secondario/orologio_secondario.html)  
 ##### Per i più competitivi  
-[Reaction test](Esercizio_4/3_reaction_test/reaction_test.html)  
+[Reaction test](Esercizio_4/3_reaction_test/reaction_test.html)   
