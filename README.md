@@ -1,5 +1,7 @@
 # GIM 2023
 Esercizi di Grafica in movimento 2023
+Edoardo Pavoni CV1
+Docente: Andreas Gysin
 
 ## Esercizio 1A
 
@@ -22,7 +24,8 @@ Esercizi di Grafica in movimento 2023
 
 ## Esercizio 2B
 
-[Forma e senso animato](Esercizio_2B/Hesitation.html)  
+[Forma e senso animato 1](Esercizio_2B/success.html) 
+[Forma e senso animato 2](Esercizio_2B/Hesitation.html)  
 
 ## Esercizio 3
 
