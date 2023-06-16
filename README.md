@@ -28,7 +28,8 @@ Esercizi di Grafica in movimento 2023
 ## Esercizio 3
 
 [pong](Esercizio_3/2_pong/pong.html)  
-[pioggia](Esercizio_3/3_pioggia/pioggia.html)
+[pioggia](Esercizio_3/3_pioggia/pioggia.html)  
+[neve](Esercizio_3/4_neve/neve.html)
 
 ## Esercizio 4
 
