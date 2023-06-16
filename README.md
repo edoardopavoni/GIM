@@ -33,6 +33,5 @@ Esercizi di Grafica in movimento 2023
 
 ## Esercizio 4
 
-[orologio digitale](Esercizio_4/1_orologio/orologio.html)  
 [orologio analogico](Esercizio_4/2_orologio_analogico/orologio_analogico.html)  
 [orologio "secondario"](Esercizio_4/4_orologio_esame_8/index.html)
