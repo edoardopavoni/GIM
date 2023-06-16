@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Reaction Test</title>
+  <style>
+    #startButton {
+      display: block;
+      margin: 20px auto;
+    }
+    
+    #light {
+      width: 100px;
+      height: 100px;
+      background-color: black;
+      margin: 20px auto;
+      border-radius: 50%;
+      transition: background-color 0.5s;
+    }
+    
+    #reactionButton {
+      display: none;
+      margin: 20px auto;
+      background-color: #ccc;
+      color: black;
+      padding: 10px 20px;
+      font-size: 16px;
+      border: none;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Reaction Test</h1>
+  
+  <button id="startButton" onclick="startTest()">Inizia</button>
+  
+  <div id="light"></div>
+  
+  <button id="reactionButton" onclick="registerReaction()" disabled>Premi!</button>
+  
+  <script>
+    var reactionTime;
+    var isTestStarted = false;
+    var startTime;
+  
+    function startTest() {
+      if (isTestStarted) return; // Evita di avviare il test più di una volta
+      
+      isTestStarted = true;
+      
+      var light = document.getElementById("light");
+      var reactionButton = document.getElementById("reactionButton");
+      
+      light.style.backgroundColor = "black";
+      reactionButton.style.display = "none";
+      reactionButton.disabled = true;
+      
+      setTimeout(function() {
+        light.style.backgroundColor = "red";
+        
+        setTimeout(function() {
+          light.style.backgroundColor = "green";
+          reactionButton.style.display = "block";
+          reactionButton.disabled = false;
+          startTime = Date.now();
+        }, Math.floor(Math.random() * 3000) + 1000); // Intervallo casuale tra 1000ms e 4000ms
+      }, 0);
+    }
+    
+    function registerReaction() {
+      if (!isTestStarted) return; // Evita di registrare la reazione se il test non è ancora stato avviato
+      
+      var endTime = Date.now();
+      reactionTime = endTime - startTime;
+      
+      alert("Il tuo tempo di reazione è: " + reactionTime + " ms");
+      
+      isTestStarted = false;
+      var light = document.getElementById("light");
+      light.style.backgroundColor = "black";
+      var reactionButton = document.getElementById("reactionButton");
+      reactionButton.style.display = "none";
+      reactionButton.disabled = true;
+    }
+  </script>
+</body>
+</html>
