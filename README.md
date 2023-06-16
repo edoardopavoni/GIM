@@ -1,7 +1,7 @@
 # GIM 2023
-Esercizi di Grafica in movimento 2023
-Edoardo Pavoni CV1
-Docente: Andreas Gysin
+Esercizi di Grafica in movimento 2023  
+Edoardo Pavoni CV1  
+Docente: Andreas Gysin  
 
 ## Esercizio 1A
 
